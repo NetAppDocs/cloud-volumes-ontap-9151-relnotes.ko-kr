@@ -822,4 +822,8 @@
   <block id="dd0e59dbbbb851076ddfea2660d5a696" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P7 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link-macro">P7 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="4e03a43ea47aeb577c42f9ad324a3454" category="paragraph"><block ref="f1b8440cb42692a81435e657f5965214" category="inline-link-macro-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
+  <block id="91091878edec991a94dc77ddb63a59bf" category="section-title">9.15.1 P8(2025년 4월 17일)</block>
+  <block id="77b3ec915fd6de5dcc6c7a7f37e3e15c" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P8 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">P8 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="b648a8dcdb79fe604205b1a88a989f8a" category="paragraph"><block ref="0e9162f512f30fecd64e4fc5cb3134b7" category="inline-link-macro-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
