@@ -36,6 +36,14 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+== 9.15.1 P7(2025년 3월 10일)
+
+이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P7 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P7["P7 패치에서 수정된 버그 목록을 봅니다"^] (NetApp 지원 사이트에 로그인 필요).
+
+
+
 == 9.15.1 P6(2025년 1월 20일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P6 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -100,7 +108,7 @@ https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-storage.html#az
 
 
 
-=== Azure에서 단일 가용 영역에 HA 쌍을 배포합니다
+=== Azure에서 단일 가용 영역에 HA 쌍을 구축합니다
 
 Cloud Volumes ONTAP 9.15.1부터 Azure의 AZ(단일 가용 영역)에 HA 모드로 가상 머신(VM) 인스턴스를 배포할 수 있습니다. 이전의 비 영역 배포와 달리 Cloud Volumes ONTAP 9.15.1은 유연한 조정 모드에서 Microsoft Virtual Machine Scale Set을 사용하여 동일한 AZ 내에 별도의 장애 도메인을 포함한 모든 리소스를 배포하여 최적의 가용성을 보장합니다. 이 배포 모드는 기본적으로 다음 조건이 충족될 때 Premium SSD v2 Managed Disks를 사용합니다.
 
