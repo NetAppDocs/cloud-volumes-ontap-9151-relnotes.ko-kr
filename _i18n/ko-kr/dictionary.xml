@@ -829,4 +829,8 @@
   <block id="4ed7f8d6ce44fa053592b73fcd8be5e3" category="paragraph">Cloud Volumes ONTAP 버전이 9.15.1 이전 버전이거나 이러한 조건이 충족되지 않으면 가용성 집합을 사용하는 이전 배포 모델이 적용됩니다. 이 제한은 HA 구성에만 적용됩니다.</block>
   <block id="0dc254fad1832eb1cdccc5261264b7ef" category="section-title">Azure에서 Premium SSD v2 Managed Disks 지원</block>
   <block id="22e2a7fe0db4ccace3b93579a7678955" category="paragraph">Cloud Volumes ONTAP 9.15.1부터 Azure의 AZ(단일 가용 영역)에 HA 모드로 가상 머신(VM) 인스턴스를 배포할 수 있습니다. 이전의 비 영역 배포와 달리 Cloud Volumes ONTAP 9.15.1은 유연한 조정 모드에서 Microsoft Virtual Machine Scale Set을 사용하여 동일한 AZ 내에 별도의 장애 도메인을 포함한 모든 리소스를 배포하여 최적의 가용성을 보장합니다. 이 배포 모드는 기본적으로 다음 조건이 충족될 때 Premium SSD v2 Managed Disks를 사용합니다.</block>
+  <block id="efd15432a3ca08ddb49f99a52ce9c1b7" category="section-title">9.15.1 P10(2025년 5월 29일)</block>
+  <block id="1832a3006fd64b4265a68064e45a1e74" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P10 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">P10 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="3c20f15522136e1c2bb7a26b742d9c3f" category="paragraph"><block ref="80808db670fbf104d60eaba92d8bd4d0" category="inline-link-macro-rx"></block> (NetApp 지원 사이트에 로그인 필요).</block>
 </blocks>
