@@ -22,7 +22,7 @@ Cloud Volumes ONTAP 9.15.1 에는 새로운 개선 사항이 포함되어 있습
 
 == 9.15.1 P14(2025년 10월 9일)
 
-9.15.1 P14 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지를 표시합니다.
+9.15.1 P14 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P14["P14 패치에서 수정된 버그 목록을 확인하세요"^] (NetApp 지원 사이트에 로그인이 필요합니다).
 
@@ -30,7 +30,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 == 9.15.1 P13(2025년 10월 9일)
 
-9.15.1 P13 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지를 표시합니다.
+9.15.1 P13 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P13["P13 패치에서 수정된 버그 목록을 확인하세요"^] (NetApp 지원 사이트에 로그인이 필요합니다).
 
