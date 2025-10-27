@@ -16,13 +16,21 @@ summary: Cloud Volumes ONTAP 9.15.1 에는 새로운 향상 기능이 포함되�
 [role="lead"]
 Cloud Volumes ONTAP 9.15.1 에는 새로운 개선 사항이 포함되어 있습니다.
 
-최신 버전의 BlueXP에는 추가 기능 및 향상된 기능이 도입되었습니다.  https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html["BlueXP 릴리스 정보"^]자세한 내용은 를 참조하십시오.
+NetApp Console 의 최신 버전에서는 추가 기능과 향상된 기능도 도입되었습니다. 자세한 내용은 새로운 내용을 참조하세요. https://docs.netapp.com/us-en/storage-management-cloud-volumes-ontap/whats-new.html["Cloud Volumes ONTAP"^] 콘솔에서 관리됩니다.
+
+
+
+== 9.15.1 P15(2025년 10월 24일)
+
+9.15.1 P15 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P15["P15 패치에서 수정된 버그 목록을 확인하세요"^](NetApp 지원 사이트에 로그인이 필요합니다).
 
 
 
 == 9.15.1 P14(2025년 10월 9일)
 
-9.15.1 P14 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
+9.15.1 P14 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P14["P14 패치에서 수정된 버그 목록을 확인하세요"^] (NetApp 지원 사이트에 로그인이 필요합니다).
 
@@ -30,7 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 == 9.15.1 P13(2025년 10월 9일)
 
-9.15.1 P13 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. NetApp Console 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
+9.15.1 P13 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P13["P13 패치에서 수정된 버그 목록을 확인하세요"^] (NetApp 지원 사이트에 로그인이 필요합니다).
 
