@@ -18,6 +18,7 @@ Azure에서는 여러 Cloud Volumes ONTAP 구성이 지원됩니다.
 
 
 
+[[supported-configurations-by-license]]
 == 라이센스에 의해 지원되는 구성
 
 Cloud Volumes ONTAP는 Azure에서 단일 노드 시스템으로, 내결함성 및 무중단 운영을 지원하는 고가용성(HA) 노드 쌍으로 제공됩니다.
@@ -28,6 +29,7 @@ Cloud Volumes ONTAP는 클라우드 공급자의 예약된 VM 인스턴스 또�
 
 
 
+[[single-node-systems]]
 === 단일 노드 시스템
 
 Cloud Volumes ONTAP를 Azure에서 단일 노드 시스템으로 구축할 때 다음과 같은 용량 기반 또는 노드 기반 라이센스 구성 중에서 선택할 수 있습니다.
@@ -225,6 +227,7 @@ Azure에서 Flash Cache를 구성하는 데 필요한 최소 ONTAP 버전은 9.1
 ====
 
 
+[[ha-pairs]]
 === HA 쌍
 
 Azure에서 Cloud Volumes ONTAP를 HA 쌍으로 구축할 경우, 다음 구성 중에서 선택할 수 있습니다.
@@ -497,12 +500,14 @@ Azure에서 Cloud Volumes ONTAP를 HA 쌍으로 구축할 경우, 다음 구성 
 ====
 
 
+[[supported-disk-sizes]]
 == 지원되는 디스크 크기입니다
 
 Azure에서는 aggregate에 동일한 유형과 크기의 디스크를 최대 12개까지 포함할 수 있습니다.
 
 
 
+[[single-node-systems]]
 === 단일 노드 시스템
 
 단일 노드 시스템은 Azure 관리 디스크를 사용합니다. 지원되는 디스크 크기는 다음과 같습니다.
@@ -545,6 +550,7 @@ Azure에서는 aggregate에 동일한 유형과 크기의 디스크를 최대 12
 |===
 
 
+[[ha-pairs]]
 === HA 쌍
 
 HA 쌍은 Azure Managed Disks를 사용합니다. 지원되는 디스크 유형 및 크기는 다음과 같습니다.
@@ -564,6 +570,7 @@ HA 쌍은 Azure Managed Disks를 사용합니다. 지원되는 디스크 유형 
 
 
 
+[[supported-regions]]
 == 지원 지역
 
 Azure 지역 지원에 대해서는 을 https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volumes 글로벌 지역"^]참조하십시오.

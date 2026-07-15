@@ -20,6 +20,7 @@ NetApp Console 의 최신 버전에서는 추가 기능과 향상된 기능도 �
 
 
 
+[[9-15-1-p16-22-december-2025]]
 == 9.15.1 P16 (2025년 12월 22일)
 
 9.15.1 P16 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
@@ -28,6 +29,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p15-24-october-2025]]
 == 9.15.1 P15(2025년 10월 24일)
 
 9.15.1 P15 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
@@ -36,6 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p14-09-october-2025]]
 == 9.15.1 P14(2025년 10월 9일)
 
 9.15.1 P14 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
@@ -44,6 +47,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p13-09-october-2025]]
 == 9.15.1 P13(2025년 10월 9일)
 
 9.15.1 P13 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. 콘솔에서는 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지가 표시됩니다.
@@ -52,6 +56,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p12-22-august-2025]]
 == 9.15.1 P12(2025년 8월 22일)
 
 9.15.1 P12 패치는 이제 모든 클라우드 공급자를 위한 Cloud Volumes ONTAP 에 사용할 수 있습니다. BlueXP 기존 시스템을 이 패치 릴리스로 업그레이드하라는 메시지를 표시합니다.
@@ -60,6 +65,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p11-04-july-2025]]
 == 9.15.1 P11(2025년 7월 4일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P11 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -68,6 +74,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p10-29-may-2025]]
 == 9.15.1 P10(2025년 5월 29일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P10 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -76,6 +83,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p8-17-april-2025]]
 == 9.15.1 P8(2025년 4월 17일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P8 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -84,6 +92,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p7-10-march-2025]]
 == 9.15.1 P7(2025년 3월 10일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P7 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -92,6 +101,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p7-10-march-2025]]
 == 9.15.1 P7(2025년 3월 10일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P7 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -100,6 +110,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p6-20-january-2025]]
 == 9.15.1 P6(2025년 1월 20일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P6 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -108,6 +119,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p5-20-january-2025]]
 == 9.15.1 P5(2025년 1월 20일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P5 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -116,6 +128,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p4-25-november-2024]]
 == 9.15.1 P4(2024년 11월 25일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P4 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -124,6 +137,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p3-29-october-2024]]
 == 9.15.1 P3(2024년 10월 29일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P3 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -132,6 +146,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p2-14-october-2024]]
 == 9.15.1 P2(2024년 10월 14일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P2 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -140,6 +155,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p1-03-september-2024]]
 == 9.15.1 P1(2024년 9월 3일)
 
 이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.15.1 P1 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.
@@ -148,6 +164,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-ga-22-august-2024]]
 == 9.15.1 GA(2024년 8월 22일)
 
 Cloud Volumes ONTAP 9.15.1 GA는 현재 AWS, Azure 및 Google Cloud에서 사용할 수 있습니다. GA 버전은 배포 및 업그레이드에 사용할 수 있습니다.
@@ -156,6 +173,7 @@ Cloud Volumes ONTAP 9.15.1 GA는 현재 AWS, Azure 및 Google Cloud에서 사용
 
 
 
+[[support-for-premium-ssd-v2-managed-disks-in-azure]]
 === Azure에서 Premium SSD v2 Managed Disks 지원
 
 Premium SSD v2 Managed Disks가 이제 Azure 기반 Cloud Volumes ONTAP 시스템에서 지원됩니다. Premium SSD Managed Disks에 비해 이러한 프리미엄 디스크는 단일 노드와 HA(고가용성) 쌍 모두에서 더 저렴한 비용으로 더 높은 성능과 더 짧은 지연 시간을 제공합니다. 다른 관리형 디스크와 마찬가지로 최대 디스크 크기는 32TiB입니다. Premium SSD v2 Managed Disks의 성능(용량, 처리량, IOPS)을 구성할 수 있으므로 워크로드 효율성을 높이는 동시에 변화하는 성능 요구 사항을 충족할 수 있습니다.
@@ -164,6 +182,7 @@ https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-storage.html#az
 
 
 
+[[deploy-ha-pairs-in-single-availability-zones-in-azure]]
 === Azure에서 단일 가용 영역에 HA 쌍을 구축합니다
 
 Cloud Volumes ONTAP 9.15.1부터 Azure의 AZ(단일 가용 영역)에 HA 모드로 가상 머신(VM) 인스턴스를 배포할 수 있습니다. 이전의 비 영역 배포와 달리 Cloud Volumes ONTAP 9.15.1은 유연한 조정 모드에서 Microsoft Virtual Machine Scale Set을 사용하여 동일한 AZ 내에 별도의 장애 도메인을 포함한 모든 리소스를 배포하여 최적의 가용성을 보장합니다. 이 배포 모드는 기본적으로 다음 조건이 충족될 때 Premium SSD v2 Managed Disks를 사용합니다.
@@ -177,6 +196,7 @@ Cloud Volumes ONTAP 9.15.1부터 Azure의 AZ(단일 가용 영역)에 HA 모드�
 
 
 
+[[support-for-virtual-machines-scale-sets-to-unify-all-azure-ha-types]]
 === 가상 머신 지원 확장 세트를 통해 모든 Azure HA 유형을 통합합니다
 
 Cloud Volumes ONTAP 9.15.1은 가상 머신 확장 세트를 Azure에서 유연한 오케스트레이션 모드로 활용하여 고가용성(HA) 쌍을 위해 단일 가용 영역에 VM(가상 머신) 인스턴스를 구축합니다. HA 모드, 페이지 Blob, LRS, ZRS(zone-redundant storage) 또는 다중 영역 및 LRS 영역(단일 AZ)의 모든 기능을 포함합니다.
@@ -187,6 +207,7 @@ Cloud Volumes ONTAP 9.15.1은 가상 머신 확장 세트를 Azure에서 유연�
 
 
 
+[[support-for-flexcache-write-back]]
 === FlexCache 후기입 지원
 
 Cloud Volumes ONTAP 9.15.1부터 FlexCache Write-Back은 캐시에서 쓰는 대체 모드로 지원됩니다.
@@ -197,12 +218,14 @@ BlueXP 에서 FlexCache 볼륨을 관리하는 방법에 대한 자세한 내�
 
 
 
+[[upgrade-notes]]
 == 노트 업그레이드
 
 이 릴리스 업그레이드에 대한 자세한 내용은 이 노트를 참조하십시오.
 
 
 
+[[how-to-upgrade]]
 === 업그레이드 방법
 
 Cloud Volumes ONTAP 업그레이드는 BlueXP에서 완료해야 합니다. System Manager 또는 CLI를 사용하여 Cloud Volumes ONTAP를 업그레이드해서는 안 됩니다. 이렇게 하면 시스템 안정성에 영향을 줄 수 있습니다.
@@ -211,12 +234,14 @@ link:http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap
 
 
 
+[[supported-upgrade-path]]
 === 지원되는 업그레이드 경로입니다
 
 9.15.0 및 9.14.1 릴리스에서 Cloud Volumes ONTAP 9.15.1로 업그레이드할 수 있습니다. BlueXP에서 해당 Cloud Volumes ONTAP 시스템을 이 릴리즈로 업그레이드하라는 메시지가 표시됩니다.
 
 
 
+[[downtime]]
 === 알아 보십시오
 
 * 단일 노드 시스템을 업그레이드하면 시스템이 최대 25분 동안 오프라인 상태로 전환되고 이 동안 I/O가 중단됩니다.
@@ -225,6 +250,7 @@ link:http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap
 
 
 
+[[c4-m4-and-r4-instances-no-longer-supported]]
 === C4, M4 및 R4 인스턴스는 더 이상 지원되지 않습니다
 
 AWS에서 C4, M4 및 R4 EC2 인스턴스 유형은 더 이상 Cloud Volumes ONTAP에서 지원되지 않습니다. C4, M4 또는 R4 인스턴스 유형에서 실행 중인 기존 시스템이 있는 경우 C5, M5 또는 R5 인스턴스 제품군의 인스턴스 유형으로 변경해야 합니다. 인스턴스 유형을 변경하기 전에는 이 릴리즈로 업그레이드할 수 없습니다.

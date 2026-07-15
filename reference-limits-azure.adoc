@@ -18,6 +18,7 @@ Cloud Volumes ONTAP는 안정적인 운영을 제공하기 위해 스토리지 �
 
 
 
+[[maximum-system-capacity-by-license]]
 == 라이센스별 최대 시스템 용량
 
 Cloud Volumes ONTAP 시스템의 최대 시스템 용량은 라이센스에 따라 결정됩니다. 최대 시스템 용량에는 디스크 기반 스토리지와 데이터 계층화에 사용되는 오브젝트 스토리지가 포함됩니다.
@@ -51,6 +52,7 @@ NetApp은 시스템 용량 제한을 초과하지 않습니다. 라이센스가 
 
 
 
+[[aggregate-limits]]
 == 애그리게이트 제한
 
 Cloud Volumes ONTAP는 Azure 스토리지를 디스크로 사용하고 이들을 _aggregate_로 그룹화합니다. Aggregate는 볼륨에 스토리지를 제공합니다.
@@ -80,6 +82,7 @@ Cloud Volumes ONTAP는 Azure 스토리지를 디스크로 사용하고 이들을
 
 
 
+[[disk-and-tiering-limits-by-vm-size]]
 == VM 크기별 디스크 및 계층화 제한
 
 용량 제한은 사용하는 VM 크기와 단일 노드 시스템을 사용하는지 HA 쌍을 사용하는지에 따라 다릅니다.
@@ -98,6 +101,7 @@ Cloud Volumes ONTAP는 Azure 스토리지를 디스크로 사용하고 이들을
 
 
 
+[[limits-for-capacity-based-licensing]]
 === 용량 기반 라이센스 제한
 
 용량 기반 라이센스 패키지를 사용하는 Cloud Volumes ONTAP 시스템에는 다음 디스크 제한이 적용됩니다. https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["Cloud Volumes ONTAP 라이센스 옵션에 대해 자세히 알아보십시오"^]
@@ -325,6 +329,7 @@ Cloud Volumes ONTAP는 Azure 스토리지를 디스크로 사용하고 이들을
 |===
 
 
+[[limits-for-node-based-licensing]]
 === 노드 기반 라이센스의 제한
 
 노드별 Cloud Volumes ONTAP 라이센스를 설정할 수 있는 이전 세대 라이센스 모델인 노드 기반 라이센스를 사용하는 Cloud Volumes ONTAP 시스템에는 다음과 같은 디스크 제한이 적용됩니다. 기존 고객은 노드 기반 라이센스를 계속 사용할 수 있습니다.
@@ -612,6 +617,7 @@ HA 쌍에는 두 가지 구성 유형, 즉 페이지 BLOB와 여러 가용성 �
 ====
 
 
+[[storage-vm-limits]]
 == 스토리지 VM 제한
 
 일부 구성을 사용하면 Cloud Volumes ONTAP용 SVM(스토리지 VM)을 추가로 생성할 수 있습니다.
@@ -657,6 +663,7 @@ DR(재해 복구)에 대해 구성하는 스토리지 VM에는 추가 라이센�
 
 
 
+[[file-and-volume-limits]]
 == 파일 및 볼륨 제한
 
 [cols="22,22,56"]
@@ -699,6 +706,7 @@ DR(재해 복구)에 대해 구성하는 스토리지 VM에는 추가 라이센�
 
 
 
+[[iscsi-storage-limits]]
 == iSCSI 스토리지 제한입니다
 
 [cols="3*"]

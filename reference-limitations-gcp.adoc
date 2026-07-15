@@ -18,6 +18,7 @@ summary: 알려진 제한 사항은 이 제품 릴리스에서 지원하지 않�
 
 
 
+[[limitation-with-packet-mirroring]]
 == 패킷 미러링의 제한
 
 https://cloud.google.com/vpc/docs/packet-mirroring["패킷 미러링"^] Cloud Volumes ONTAP을 구축하는 Google Cloud VPC에서 비활성화해야 합니다.
@@ -26,6 +27,7 @@ https://cloud.google.com/vpc/docs/packet-mirroring["패킷 미러링"^] Cloud Vo
 
 
 
+[[google-private-service-connect-limitations]]
 == Google Private Service Connect 제한 사항
 
  https://cloud.google.com/vpc/docs/private-service-connect["Google Private Service Connect"^]Cloud Volumes ONTAP를 구축하는 VPC 내에서 를 활용하는 경우 트래픽을 필요한 으로 전달하는 DNS 레코드를 구현해야 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-connector-google.html["BlueXP API 엔드포인트"^] 합니다.
