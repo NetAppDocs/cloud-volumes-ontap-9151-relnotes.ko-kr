@@ -859,4 +859,9 @@
   <block id="e8d9a2142b0c7a1f3d2dc09902d6391b" category="inline-link-macro">P16 패치에서 수정된 버그 목록을 확인하세요</block>
   <block id="4c48453a05017f489f97fe11044140b5" category="paragraph"><block ref="839c9cf1c1e19f48d72f9cbebe658ee9" category="inline-link-macro-rx"></block>(NetApp 지원 사이트에 로그인이 필요합니다).</block>
   <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">아래 표에 표시된 대역폭은 각 인스턴스 유형에 대해 문서화된 AWS 제한과 일치합니다. 이러한 제한은 Cloud Volumes ONTAP가 제공할 수 있는 것과 완전히 일치하지 않습니다. 예상 성능은<block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>을 참조하십시오.</block>
+  <block id="37f2682fe2c48d04188d6e9808301884" category="section-title">9.15.1 P20HF1 (2026년 11월 2일)</block>
+  <block id="afd9db66a0590f8e8b253abed63059da" category="paragraph">이제 모든 클라우드 제공업체의 Cloud Volumes ONTAP에서 9.15.1 P20HF1 패치를 사용할 수 있습니다. 이 패치는 9.15.1용 ONTAP 핫픽스와 호환됩니다.</block>
+  <block id="8ad3eb5eca42a4379abc9f1c9a2f829a" category="paragraph">Cloud Volumes ONTAP 시스템의 경우 Console에서 이 핫픽스로 업그레이드하라는 메시지가 표시될 수 있습니다. 하지만 이 핫픽스는 Console 에이전트 버전이 4.12.0 이상인 경우에만 지원됩니다. Console 에이전트 버전이 4.12.0 이전인 경우 해당 메시지를 무시하십시오.</block>
+  <block id="08853958e0db62fd50058fd45b355d7a" category="inline-link-macro">Console 에이전트 4.12.0</block>
+  <block id="8e8b20b71032c4ee10ed609d1fc74995" category="paragraph"><block ref="8e8b20b71032c4ee10ed609d1fc74995" category="inline-link-macro-rx"></block></block>
 </blocks>
